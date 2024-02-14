@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 👋 Hi, I’m @E-Ayman-Mohamed
 - 👀 I’m interested in Web Development and Mobile apps Development
 - 🌱 I’m currently learning Computer and Systems engineering
