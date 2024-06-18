@@ -8,14 +8,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,figma,js,html,css,vscode,github,c,cpp,java,mysql,dart,flutter,androidstudio" />
   </a>
-</p.
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eng-Ayman-Mohamed)  
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Ayman-Mohamed)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-Ayman-Mohamed&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Eng-Ayman-Mohamed)  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 
