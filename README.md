@@ -10,3 +10,8 @@
   </a>
 </p>
 <!---![visitors](https://visitor-badge.glitch.me/badge?page_id=Eng-Ayman-Mohamed.Eng-Ayman-Mohamed&left_color=green&right_color=red)--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eng-Ayman-Mohamed)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-Ayman-Mohamed&show_icons=true)  
+
