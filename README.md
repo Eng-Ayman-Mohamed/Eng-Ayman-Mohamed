@@ -28,7 +28,7 @@ const ayman = {
   role:        "Software Engineer & Full-Stack Developer",
   education:   "B.Sc. Computer & Systems Engineering — Alexandria University 🎓",
   location:    "El Delengat, El Beheira, Egypt 🇪🇬  (Open to relocation 🌍)",
-  status:      "Actively seeking a full-time opportunity 🔍",
+  status:      "Available for Full-Stack projects 🟢",
   interests:   ["Web Development", "Mobile Apps", "3D Web Experiences"],
   currentFocus: "Building scalable, user-centered applications",
   askMeAbout:  ["React", "Node.js", "Express.js", "JQuery", "System Design"],
